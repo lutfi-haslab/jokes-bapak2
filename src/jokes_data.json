@@ -1,0 +1,992 @@
+[
+  {
+    "id": 1,
+    "setup": "Kenapa matahari tenggelam?",
+    "punchline": "Karena nggak bisa berenang"
+  },
+  {
+    "id": 2,
+    "setup": "Burung, burung apa yang suka nolak?",
+    "punchline": "Burung gakgak"
+  },
+  {
+    "id": 3,
+    "setup": "Sayuran apa yang dingin?",
+    "punchline": "Kembang cold"
+  },
+  {
+    "id": 4,
+    "setup": "Nun mati bertemu ain?",
+    "punchline": "Ain nya terkejut"
+  },
+  {
+    "id": 5,
+    "setup": "Gula, gula apa yang bukan gula?",
+    "punchline": "Gula aren’t"
+  },
+  {
+    "id": 6,
+    "setup": "Nama kota apa yang banyak bapak-bapaknya?",
+    "punchline": "Purwodaddy"
+  },
+  {
+    "id": 7,
+    "setup": "Bakso apa yang nggak boleh dilihat tapi enak dimakan?",
+    "punchline": "Bakso aurat"
+  },
+  {
+    "id": 8,
+    "setup": "Hewan apa yang taat lalu lintas?",
+    "punchline": "Unta-makan keselamatan"
+  },
+  {
+    "id": 9,
+    "setup": "Ikan, ikan apa yang bisa terbang?",
+    "punchline": "Lelelawar"
+  },
+  {
+    "id": 10,
+    "setup": "Kenapa air mata warnanya bening?",
+    "punchline": "Kalau warna ijo namanya air matcha"
+  },
+  {
+    "id": 11,
+    "setup": "Susu, susu apa yang selalu telat?",
+    "punchline": "Susu kedelay"
+  },
+  {
+    "id": 12,
+    "setup": "Superhero yang selalu selamat di setiap keadaan?",
+    "punchline": "AkuAman"
+  },
+  {
+    "id": 13,
+    "setup": "Roti, roti apa yang suka nyuri?",
+    "punchline": "Jambread"
+  },
+  {
+    "id": 14,
+    "setup": "Kumis, kumis apa yang bikin salting?",
+    "punchline": "Kumiss you"
+  },
+  {
+    "id": 15,
+    "setup": "Kenapa ginjal ada dua?",
+    "punchline": "Karena kalau satu ganjil"
+  },
+  {
+    "id": 16,
+    "setup": "Gunung Sumbing kalau meletus bunyinya?",
+    "punchline": "Nuaaall"
+  },
+  {
+    "id": 17,
+    "setup": "Huruf apa yang paling kedinginan?",
+    "punchline": "B, karena berada di tengah-tengah AC"
+  },
+  {
+    "id": 18,
+    "setup": "Kera, kera apa yang diinjak nggak marah?",
+    "punchline": "Keramik"
+  },
+  {
+    "id": 19,
+    "setup": "Baca juga : Rekomendasi Headset Bluetooth Terbaik dan Terjangkau",
+    "punchline": "Gajah, gajah apa yang baik?"
+  },
+  {
+    "id": 20,
+    "setup": "Gajahat",
+    "punchline": "Kue, kue apa yang nggak pernah bohong?"
+  },
+  {
+    "id": 21,
+    "setup": "Kue cucur",
+    "punchline": "Hewan apa yang deket banget sama temen?"
+  },
+  {
+    "id": 22,
+    "setup": "A Crab",
+    "punchline": "Siapa pemain bola yang punya usaha pengobatan?"
+  },
+  {
+    "id": 23,
+    "setup": "David Bekam",
+    "punchline": "Bubur apa yang kecil tapi bisa digedein?"
+  },
+  {
+    "id": 24,
+    "setup": "Bubur zoom-zoom",
+    "punchline": "Telor asin takut ama siapa?"
+  },
+  {
+    "id": 25,
+    "setup": "Telur puyuh, karena tatonya lebih banyak",
+    "punchline": "Apa persamaan antara uang dan rahasia?"
+  },
+  {
+    "id": 26,
+    "setup": "Sama-sama susah dipegang.",
+    "punchline": "Hewan apa yang bersaudara?"
+  },
+  {
+    "id": 27,
+    "setup": "Katak Beradik.",
+    "punchline": "Sabun apa yang paling genit?"
+  },
+  {
+    "id": 28,
+    "setup": "Sabun colek.",
+    "punchline": "Selalu diam di pojok tapi bisa keliling dunia?"
+  },
+  {
+    "id": 29,
+    "setup": "Perangko",
+    "punchline": "Pintu apa yang walaupun didorong sepuluh orang pun tidak terbuka?-"
+  },
+  {
+    "id": 30,
+    "setup": "Pintu yang ada tulisan ‘TARIK.’",
+    "punchline": "Rambut putih namanya uban, rambut merah namanya pirang, kalau rambut hijau namanya apa?"
+  },
+  {
+    "id": 31,
+    "setup": "Rambutan belum mateng.",
+    "punchline": "Apa yang badannya hijau, kepalanya merah, jalannya mundur?"
+  },
+  {
+    "id": 32,
+    "setup": "Obat nyamuk bakar.",
+    "punchline": "Siapa yang potong rambut tiap hari tetapi tidak botak?"
+  },
+  {
+    "id": 33,
+    "setup": "Tukang pangkas!",
+    "punchline": "Kenapa di keyboard komputer ada tulisan ‘ENTER’?"
+  },
+  {
+    "id": 34,
+    "setup": "Karena kalau tulisannya ‘ENTAR’, programnya nggak jalan-jalan.",
+    "punchline": "Kenapa dokter jika akan mengoperasi mulutnya ditutup?"
+  },
+  {
+    "id": 35,
+    "setup": "Karena jika matanya yang ditutup nggak bisa melihat dong.",
+    "punchline": "Kenapa air laut asin?"
+  },
+  {
+    "id": 36,
+    "setup": "Karena ikannya pada berkeringat.",
+    "punchline": "Kenapa kambing berjenggot?"
+  },
+  {
+    "id": 37,
+    "setup": "Karena jika berkumis nanti dikira Pak Raden.",
+    "punchline": "Sapi apa yang larinya cepat?"
+  },
+  {
+    "id": 38,
+    "setup": "Sapi-da motor.",
+    "punchline": "Kentang apa yang bisa bikin bayi ketawa?"
+  },
+  {
+    "id": 39,
+    "setup": "Kentang-tingtung-tingtang-tingtung.",
+    "punchline": "Suku apa yang banyak berkeliaran di mal?"
+  },
+  {
+    "id": 40,
+    "setup": "Suku-riti.",
+    "punchline": "Kuda apa yg paling capek?"
+  },
+  {
+    "id": 41,
+    "setup": "Kuda-ki gunung sambil jongkok.",
+    "punchline": "Monyet apa yang menyebalkan?"
+  },
+  {
+    "id": 42,
+    "setup": "Monyet-tel tv tidak bisa, monyetel radio tidak bisa juga.",
+    "punchline": "Apa persamaan kain jemuran dan telepon?"
+  },
+  {
+    "id": 43,
+    "setup": "Keduanya jika sudah ‘kringgg’ boleh diangkat.",
+    "punchline": "Apa persamaan tukang sate dan tukang soto?"
+  },
+  {
+    "id": 44,
+    "setup": "Sama-sama nggak jual bakso!",
+    "punchline": "Ikan apa yang matanya sangat banyak?"
+  },
+  {
+    "id": 45,
+    "setup": "Ikan teri satu kilo.",
+    "punchline": "Binatang apa yang seluruh anggota tubuhnya ada di kepala?"
+  },
+  {
+    "id": 46,
+    "setup": "Kutu rambut.",
+    "punchline": "Binatang apa yang tidak sampai-sampai?"
+  },
+  {
+    "id": 47,
+    "setup": "Lama.",
+    "punchline": "Monyet apa yang senang maju mundur?"
+  },
+  {
+    "id": 48,
+    "setup": "Monyet-trika baju.",
+    "punchline": "Kutu, kutu apa yang menakutkan?"
+  },
+  {
+    "id": 49,
+    "setup": "Kutukan.",
+    "punchline": "Hewan apa yang selalu sehat?"
+  },
+  {
+    "id": 50,
+    "setup": "Ularaga.",
+    "punchline": "Hewan apa yang hanya terdiri dari satu huruf?"
+  },
+  {
+    "id": 51,
+    "setup": "I’kan?",
+    "punchline": "Hewan apa yang paling hening?"
+  },
+  {
+    "id": 52,
+    "setup": "Semute.",
+    "punchline": "Ikan apa yang suka berhenti?"
+  },
+  {
+    "id": 53,
+    "setup": "Ikan pause.",
+    "punchline": "Kenapa ayam kalau berkokok, matanya merem?"
+  },
+  {
+    "id": 54,
+    "setup": "Karena sudah hafal teksnya.",
+    "punchline": "Ayam apa yang nyebelin?"
+  },
+  {
+    "id": 55,
+    "setup": "Ayamnya sudah habis, nasinya masih banyak.",
+    "punchline": "Gajah terbang dengan apa?"
+  },
+  {
+    "id": 56,
+    "setup": "Dengan susah payah.",
+    "punchline": "Gajah naik becak kelihatan apanya?"
+  },
+  {
+    "id": 57,
+    "setup": "Kelihatan bohongnya.",
+    "punchline": "Hewan apa yang namanya satu huruf?"
+  },
+  {
+    "id": 58,
+    "setup": "G ajah.",
+    "punchline": "Hewan apa yang namanya dua huruf?"
+  },
+  {
+    "id": 59,
+    "setup": "U dan g.",
+    "punchline": "Uang 100 ribu kalau dilempar jadi apa?"
+  },
+  {
+    "id": 60,
+    "setup": "Jadi rebutan!",
+    "punchline": "Siapa pemain bola yang beratnya 3 kg?"
+  },
+  {
+    "id": 61,
+    "setup": "Bambang tabung gas.",
+    "punchline": "Kesenian apa yang selalu dilakukan oleh nasabah bank?"
+  },
+  {
+    "id": 62,
+    "setup": "Tari tunai.",
+    "punchline": "Tahu nggak kenapa kucing nggak di penjara pas jadi maling?"
+  },
+  {
+    "id": 63,
+    "setup": "Soalnya kucing ga wrong.",
+    "punchline": "Kalau kijang sama kuda tabrakan yang mati siapa?"
+  },
+  {
+    "id": 64,
+    "setup": "Supirnya.",
+    "punchline": "Pocong apa yang paling jadi favorit ibu-ibu?"
+  },
+  {
+    "id": 65,
+    "setup": "Pocongan harga",
+    "punchline": "Apa persamaan cokelat dan kuburan?"
+  },
+  {
+    "id": 66,
+    "setup": "Sama-sama band terkenal, lah!",
+    "punchline": "Hewan apa yang hobi telat ke sekolah?"
+  },
+  {
+    "id": 67,
+    "setup": "Kaki seribu. Soalnya kelamaan pakai sepatunya.",
+    "punchline": "Gendang apa yang nggak bisa dipukul?"
+  },
+  {
+    "id": 68,
+    "setup": "Gendang telinga.",
+    "punchline": "Warna apa yang paling nggak peduli?"
+  },
+  {
+    "id": 69,
+    "setup": "Biru don’t care.",
+    "punchline": "Kenapa kita harus berdoa sebelum minum air?"
+  },
+  {
+    "id": 70,
+    "setup": "Karena di dalam air ada tiga jin. Dua hidroJin dan satu oksiJin.",
+    "punchline": "Apa yang kalau dipotong malah makin tinggi?"
+  },
+  {
+    "id": 71,
+    "setup": "Celana.",
+    "punchline": "Kalau ditutup kelihatan, tapi kalau dibuka malah nggak ada. Apa hayo?"
+  },
+  {
+    "id": 72,
+    "setup": "Pintu rel kereta api.",
+    "punchline": "Orang, orang apa yang nggak pernah kebasahan waktu hujan?"
+  },
+  {
+    "id": 73,
+    "setup": "Orang nggak hujan.",
+    "punchline": "Kalau dibeli warnanya hitam, kalau dibakar warnanya merah, kalau dibuang warnanya abu-abu, coba tebak apa?"
+  },
+  {
+    "id": 74,
+    "setup": "Arang.",
+    "punchline": "Kenapa burung terbang ke selatan waktu musim dingin?"
+  },
+  {
+    "id": 75,
+    "setup": "Karena kalau harus jalan kejauhan.",
+    "punchline": "Gerakan apa yang paling susah dilakuin?"
+  },
+  {
+    "id": 76,
+    "setup": "Move on.",
+    "punchline": "Buah apa yang pernah menjajah Indonesia?"
+  },
+  {
+    "id": 77,
+    "setup": "Terong Belanda.",
+    "punchline": "Sayur apa yang pintar nyanyi?"
+  },
+  {
+    "id": 78,
+    "setup": "Kolplay.",
+    "punchline": "Apa perbedaan sepatu sama jengkol?"
+  },
+  {
+    "id": 79,
+    "setup": "Kalau sepatu disemir sementara jengkol di semur",
+    "punchline": "Apa perbedaan semut dan orang?"
+  },
+  {
+    "id": 80,
+    "setup": "Orang bisa kesemutan, tapi semut tidak bisa keorangan.",
+    "punchline": "Kenapa superman ada huruf S di bajunya?"
+  },
+  {
+    "id": 81,
+    "setup": "Karena kalau ada ukuran M atau XL sudah pasti terlalu lebar",
+    "punchline": "Ikan apa yang matanya banyak? Ikan teri satu kilo."
+  },
+  {
+    "id": 82,
+    "setup": "Tari apa yang menghasilkan banyak uang?",
+    "punchline": "Tarian tunai."
+  },
+  {
+    "id": 83,
+    "setup": "Hewan apa yang paling susah menyampaikan pendapat?",
+    "punchline": "Se-mute."
+  },
+  {
+    "id": 84,
+    "setup": "Mobil apa yang gak bisa dicat?",
+    "punchline": "Mobil hilang."
+  },
+  {
+    "id": 85,
+    "setup": "Kalau si Al dan si El anak Ahmad Dhani, siapakah si Dul?",
+    "punchline": "Si Dul anak Betawi."
+  },
+  {
+    "id": 86,
+    "setup": "Suku apa yang paling sering mondar-mandir di mall?",
+    "punchline": "Suku-riti."
+  },
+  {
+    "id": 87,
+    "setup": "Kenapa sabuk pergi ke penjara?",
+    "punchline": "Karena sudah menahan celana."
+  },
+  {
+    "id": 88,
+    "setup": "Apa bahasa Thailand-nya bapak-ibu-anak?",
+    "punchline": "Leng-khaaap."
+  },
+  {
+    "id": 89,
+    "setup": "Kenapa air mata warnanya bening?",
+    "punchline": "Soalnya kalo ijo namanya air matcha."
+  },
+  {
+    "id": 90,
+    "setup": "Hewan apa yang punya saudara?",
+    "punchline": "Katak-beradik."
+  },
+  {
+    "id": 91,
+    "setup": "Kapan air mengantuk?",
+    "punchline": "Ketika direbus karena abis itu dia nguap."
+  },
+  {
+    "id": 92,
+    "setup": "Apa bedanya fitnah dan fitness?",
+    "punchline": "Kalo fitnah kejam, kalo fitness kejim (ke gym)."
+  },
+  {
+    "id": 93,
+    "setup": "Kalau hidup kamu diselimuti masalah, itu tandanya kamu manusia. Kalau kamu diselimuti wijen, berarti selama ini kamu onde-onde.",
+    "punchline": "Tak ada rotan, Raam Punjabi."
+  },
+  {
+    "id": 94,
+    "setup": "Tak ada Gading yang tak Marten.",
+    "punchline": "Berat sama dipikul, ringan sama digidaw."
+  },
+  {
+    "id": 95,
+    "setup": "Berakit-rakit ke hulu, berenang-renang ke tepian. Bersakit-sakit dahulu, berenang-renang kemudian. Kayak ada yang salah :(",
+    "punchline": "Di mana bumi dipijak, di situ langit di Jungkook."
+  },
+  {
+    "id": 96,
+    "setup": "Hidup segan, mati tak-dung-dung-jes.",
+    "punchline": "Karena nila setitik, rusak susu sebel banget :("
+  },
+  {
+    "id": 97,
+    "setup": "Nasi sudah menjadi Labubu.",
+    "punchline": "Seperti padi, kian berisi kian merungkad."
+  },
+  {
+    "id": 98,
+    "setup": "Menang jadi arang, kalah jadi babu :(",
+    "punchline": "Gajah mati meninggalkan gading, harimau mati meninggalkan belang, manusia mati meninggalkan deadline."
+  },
+  {
+    "id": 99,
+    "setup": "Pekerjaan apa yang bikin baper pak?",
+    "punchline": "Jawabannya Security, karena kerjanya dari HT ke HT ahehehehe."
+  },
+  {
+    "id": 100,
+    "setup": "Mi, mi apa yang isinya nasi?",
+    "punchline": "Mi yako"
+  },
+  {
+    "id": 101,
+    "setup": "Hewan apa yang ringan pak?",
+    "punchline": "Cicak-cicak di-jinjing pak. Kalo berat sama dipikul."
+  },
+  {
+    "id": 102,
+    "setup": "Binatang apa yang ga sengaja terluka?",
+    "punchline": "Kecoak"
+  },
+  {
+    "id": 103,
+    "setup": "Hewan apa yang bentuknya persegi?",
+    "punchline": "Kijang kotak hehehe"
+  },
+  {
+    "id": 104,
+    "setup": "Artis yang sering kirim surat?",
+    "punchline": "Saipul Gmail"
+  },
+  {
+    "id": 105,
+    "setup": "Penyakit apa yang adanya di Sudirman doang?",
+    "punchline": "Gagal ganjil wgwgwgwgwg"
+  },
+  {
+    "id": 106,
+    "setup": "Ubi apa yang rame bener?",
+    "punchline": "Ubi ubi latihan marawis, Pak"
+  },
+  {
+    "id": 107,
+    "setup": "Buah apa yang kejam?",
+    "punchline": "Pear-aun"
+  },
+  {
+    "id": 108,
+    "setup": "Jagoan dari Jepang yang udah makan roti, makan kentang tapi masih laper?",
+    "punchline": "Kotaro monasi"
+  },
+  {
+    "id": 109,
+    "setup": "Makanan apa yang bikinnya gampang?",
+    "punchline": "Tahu easy"
+  },
+  {
+    "id": 110,
+    "setup": "Siapa nama sodaranya Bruce Lee yang vegan?",
+    "punchline": "Broco Lee"
+  },
+  {
+    "id": 111,
+    "setup": "Batuk apa yang bikin kesal?",
+    "punchline": "Batuk berdahak"
+  },
+  {
+    "id": 112,
+    "setup": "Kacang apa yang suka tiba-tiba hilang?",
+    "punchline": "Kacang kedelete"
+  },
+  {
+    "id": 113,
+    "setup": "Buah apa yang bikin pusing?",
+    "punchline": "Belimbingan skripsi"
+  },
+  {
+    "id": 114,
+    "setup": "Makanan apa yang laki-laki semua?",
+    "punchline": "Tempe men doang"
+  },
+  {
+    "id": 115,
+    "setup": "Siapa artis yang sering ada di dapur?",
+    "punchline": "Jackitchen"
+  },
+  {
+    "id": 116,
+    "setup": "Binatang apa yang bisa hidup lagi?",
+    "punchline": "Udang reborn"
+  },
+  {
+    "id": 117,
+    "setup": "Makanan untuk orang yang kesepian?",
+    "punchline": "Crombolonely"
+  },
+  {
+    "id": 118,
+    "setup": "Makanan-makanan apa yang menghilangkan pahala puasa?",
+    "punchline": "Bakso aurat"
+  },
+  {
+    "id": 119,
+    "setup": "Takjil-takjil apa yang paling gede?",
+    "punchline": "Candil borobudur"
+  },
+  {
+    "id": 120,
+    "setup": "Makanan-makanan apa yang lucu?",
+    "punchline": "Nasi kocak"
+  },
+  {
+    "id": 121,
+    "setup": "Makanan yang bisa terlindung dari hujan?",
+    "punchline": "Payunghai"
+  },
+  {
+    "id": 122,
+    "setup": "Tahu-tahu apa yang bikin pusing?",
+    "punchline": "Tahu scripsy"
+  },
+  {
+    "id": 123,
+    "setup": "Makanan yang dalamnya bisa 20 meter?",
+    "punchline": "Semur bor"
+  },
+  {
+    "id": 124,
+    "setup": "Makanan yang jago basket?",
+    "punchline": "Rendunk"
+  },
+  {
+    "id": 125,
+    "setup": "Makanan khas puasa yang rumahnya gelap?",
+    "punchline": "Nastar KDI"
+  },
+  {
+    "id": 126,
+    "setup": "Makanan yang disuka sama anak IT?",
+    "punchline": "Mie tech tech"
+  },
+  {
+    "id": 127,
+    "setup": "Makanan yang selalu siap kalau difoto?",
+    "punchline": "Tumis bund cisss"
+  },
+  {
+    "id": 128,
+    "setup": "Kolak kolak apa yang ada sodanya?",
+    "punchline": "Koka kolak"
+  },
+  {
+    "id": 129,
+    "setup": "Opor, opor apa yang gak datang dua kali?",
+    "punchline": "Oportunity"
+  },
+  {
+    "id": 130,
+    "setup": "Makanan yang selalu nipu orang?",
+    "punchline": "Ketoprank"
+  },
+  {
+    "id": 131,
+    "setup": "Hantu, hantu apa yang jago ngelawak?",
+    "punchline": "Kuntilenong"
+  },
+  {
+    "id": 132,
+    "setup": "Band Indonesia yang punya usaha kue?",
+    "punchline": "Kuesoes & the couples company"
+  },
+  {
+    "id": 133,
+    "setup": "To, olahraga apa yang harus nunggu dulu?",
+    "punchline": "Lompat inden"
+  },
+  {
+    "id": 134,
+    "setup": "Orang, orang apa yang bahagia di hari Senin?",
+    "punchline": "Pensiunan"
+  },
+  {
+    "id": 135,
+    "setup": "Binatang apa yang aneh?",
+    "punchline": "Belalang kupu-kupu, soalnya siang makan nasi, kalo malem minum susu"
+  },
+  {
+    "id": 136,
+    "setup": "Siapa nama ayahnya Robocop?",
+    "punchline": "Robokap"
+  },
+  {
+    "id": 137,
+    "setup": "Universitas apa yang gawat darurat?",
+    "punchline": "UI (UI UI UI UI Ambulan)"
+  },
+  {
+    "id": 138,
+    "setup": "Obat apa yang muda terus?",
+    "punchline": "Sakatonik ABG"
+  },
+  {
+    "id": 139,
+    "setup": "Artis yang kalo naik motor suka freestyle?",
+    "punchline": "Nikita Wheelie"
+  },
+  {
+    "id": 140,
+    "setup": "Kota apa yang bikin kaget?",
+    "punchline": "Ya Ambon"
+  },
+  {
+    "id": 141,
+    "setup": "Lagu apa dari Maliq and D Essential yang tentang daerah di Tanah Abang?",
+    "punchline": "Menari \"Ooo lihat kita, Petamburan\""
+  },
+  {
+    "id": 142,
+    "setup": "Daerah di Jakarta yang nggak puasa?",
+    "punchline": "Pademangan. Disuruh puasa malah pademangan"
+  },
+  {
+    "id": 143,
+    "setup": "Buah, buah apa yang bisa bernyanyi?",
+    "punchline": "Buah pepaya, pepaya pundak lutut kaki lutut kaki, cuakss"
+  },
+  {
+    "id": 144,
+    "setup": "Kenapa Superman poni keritingnya cuma satu?",
+    "punchline": "Karena kalo banyak jadi super mie"
+  },
+  {
+    "id": 145,
+    "setup": "Otak-otak ikan tenggiri, pala botak?",
+    "punchline": "Bapak saya sendiri huehehehehehehe"
+  },
+  {
+    "id": 146,
+    "setup": "Hewan, hewan apa yang selalu ada atau suka nongkrong di mesin ATM?",
+    "punchline": "T-rex tunai"
+  },
+  {
+    "id": 147,
+    "setup": "Gedung apa yang tinggi dan nakal?",
+    "punchline": "Gedung bertingkah"
+  },
+  {
+    "id": 148,
+    "setup": "Biskuit, biskuit apa yang kalo mau dimakan harus dirakit dulu?",
+    "punchline": "Ya, biskuit roma sari gundam"
+  },
+  {
+    "id": 149,
+    "setup": "Sapu, sapu apa yang bisa nyala?",
+    "punchline": "Sapu LED"
+  },
+  {
+    "id": 150,
+    "setup": "Binatang, binatang apa yang selalu ragu?",
+    "punchline": "Serang ga ahahaha"
+  },
+  {
+    "id": 151,
+    "setup": "Burung kalo pulang kemana, Pak?",
+    "punchline": "Parung"
+  },
+  {
+    "id": 152,
+    "setup": "Makanan, yang sering makan korban?",
+    "punchline": "Lalapan, Lalapan liar"
+  },
+  {
+    "id": 153,
+    "setup": "Nama makanan yang suka berantem?",
+    "punchline": "Soto tengkar"
+  },
+  {
+    "id": 154,
+    "setup": "Makanan yang gak bisa dibuka bungkusnya?",
+    "punchline": "Cilock"
+  },
+  {
+    "id": 155,
+    "setup": "Makanan yang hangat dan penuh cinta?",
+    "punchline": "Lauk peluk"
+  },
+  {
+    "id": 156,
+    "setup": "Bawang, bawang apa yang gak bisa ditemukan di rumah?",
+    "punchline": "Bang toyib"
+  },
+  {
+    "id": 157,
+    "setup": "Siapa nama makanan yang kakeknya R?",
+    "punchline": "cucu R"
+  },
+  {
+    "id": 158,
+    "setup": "Penyedap makanan yang bikin sayang?",
+    "punchline": "Kecup manis"
+  },
+  {
+    "id": 159,
+    "setup": "Makanan yang sering muncul di Netflix?",
+    "punchline": "Dendeng"
+  },
+  {
+    "id": 160,
+    "setup": "Buah apa yang kalo ketawa ampe terbahak-bahak?",
+    "punchline": "Jeruk Lmao"
+  },
+  {
+    "id": 161,
+    "setup": "Apa jenis masakan yang bisa bikin awkward saat ketemu?",
+    "punchline": "Tumis Canggung"
+  },
+  {
+    "id": 162,
+    "setup": "Penyanyi dangdut wanita siapa yang ternyata laki-laki?",
+    "punchline": "He is Dahlia"
+  },
+  {
+    "id": 163,
+    "setup": "Hewan apa yang banyak maunya?",
+    "punchline": "Penguin, Penguin ini penguin itu banyak maunya"
+  },
+  {
+    "id": 164,
+    "setup": "Hewan yang paling berani?",
+    "punchline": "Gajah berani"
+  },
+  {
+    "id": 165,
+    "setup": "Rempah apa yang bikin lega?",
+    "punchline": "Sereh, berserah diri bikin lega"
+  },
+  {
+    "id": 166,
+    "setup": "Artis-artis apa yang suka masak?",
+    "punchline": "opik tumis"
+  },
+  {
+    "id": 167,
+    "setup": "Nama pencuci mulut yang tabiatnya buruk?",
+    "punchline": "Es teler"
+  },
+  {
+    "id": 168,
+    "setup": "Binatang apa yang dari Australia yang hobinya rebahan?",
+    "punchline": "Kangturu"
+  },
+  {
+    "id": 169,
+    "setup": "Nama makanan yang suka semangatin ikan lele?",
+    "punchline": "Mangat lele"
+  },
+  {
+    "id": 170,
+    "setup": "Pelawak apa yang nama lain dari tokped sama shopee?",
+    "punchline": "E-Komeng"
+  },
+  {
+    "id": 171,
+    "setup": "Benda yang gak bikin ngantuk?",
+    "punchline": "Sandal anti sleep"
+  },
+  {
+    "id": 172,
+    "setup": "Nama pelawak yang ada di Upin Ipin?",
+    "punchline": "Bedul Bedul Bedul"
+  },
+  {
+    "id": 173,
+    "setup": "Makanan, makanan apa yang susah napas?",
+    "punchline": "Klelepon"
+  },
+  {
+    "id": 174,
+    "setup": "Hewan, hewan apa yang bisa membangkitkan semangat?",
+    "punchline": "Moti si sapi"
+  },
+  {
+    "id": 175,
+    "setup": "Hewan laut yang suaranya kaya kucing?",
+    "punchline": "Octo pus"
+  },
+  {
+    "id": 176,
+    "setup": "Daerah, daerah apa yang doyan tampil?",
+    "punchline": "Lumajang"
+  },
+  {
+    "id": 177,
+    "setup": "Mie apa yang sehat?",
+    "punchline": "Mie latih jiwa dan raga"
+  },
+  {
+    "id": 178,
+    "setup": "Makanan, makanan apa yang bisa terbang?",
+    "punchline": "French flies"
+  },
+  {
+    "id": 179,
+    "setup": "Kendaraan, kendaraan apa yang lagi ketemuan?",
+    "punchline": "Helikopdar"
+  },
+  {
+    "id": 180,
+    "setup": "Siapa artis Hollywood yang asli Betawi?",
+    "punchline": "Mat Damon"
+  },
+  {
+    "id": 181,
+    "setup": "Siapa nama asli nasi?",
+    "punchline": "Halu si nasi"
+  },
+  {
+    "id": 182,
+    "setup": "Minuman apa yang disukai sama anak IT?",
+    "punchline": "Tech Tarik"
+  },
+  {
+    "id": 183,
+    "setup": "Kopi, kopi apa yang disukai anak kuliah?",
+    "punchline": "Kopi paste"
+  },
+  {
+    "id": 184,
+    "setup": "Kopi, kopi apa yang disukai anak-anak?",
+    "punchline": "Kopi saya bundar"
+  },
+  {
+    "id": 185,
+    "setup": "Alat masak apa yang suka ngebut-ngebutan?",
+    "punchline": "Race Cooker"
+  },
+  {
+    "id": 186,
+    "setup": "Artis apa yang bisa refill?",
+    "punchline": "Teh Ocha"
+  },
+  {
+    "id": 187,
+    "setup": "Artis, artis siapa yang suka ngomongin orang?",
+    "punchline": "Angelina Jolid"
+  },
+  {
+    "id": 188,
+    "setup": "Goyang, goyang apa yang gak bisa napas?",
+    "punchline": "goyang don't breath"
+  },
+  {
+    "id": 189,
+    "setup": "Minuman apa yang pedes manis?",
+    "punchline": "cocotlatos"
+  },
+  {
+    "id": 190,
+    "setup": "Penyanyi yang bisa dimakan?",
+    "punchline": "Cireng Sungkar"
+  },
+  {
+    "id": 191,
+    "setup": "Kenapa kalo ada nyamuk gak boleh ditepok?",
+    "punchline": "Kalo ditepok nanti jadi imam"
+  },
+  {
+    "id": 192,
+    "setup": "Minuman apa yang gak ada?",
+    "punchline": "Wedang euweuh"
+  },
+  {
+    "id": 193,
+    "setup": "Karakter Disney apa yang baru banget masuk SMA?",
+    "punchline": "mickey Mos"
+  },
+  {
+    "id": 194,
+    "setup": "Penyanyi, penyanyi dangdut apa yang bisa ngerekam video?",
+    "punchline": "Caca Handycam"
+  },
+  {
+    "id": 195,
+    "setup": "Stasiun, stasiun apa yang pinter?",
+    "punchline": "Stasiun Cikoya"
+  },
+  {
+    "id": 196,
+    "setup": "Apa yang warnanya merah, dan tidak tua?",
+    "punchline": "Merah muda"
+  },
+  {
+    "id": 197,
+    "setup": "Tol, tol apa yang dekat dengan rakyat?",
+    "punchline": "Jasa Warga"
+  },
+  {
+    "id": 198,
+    "setup": "Apa bahasa Jepangnya orang Cilacap menyapa pelanggan restorannya yang tumben-tumbenan dateng pake baju keren?",
+    "punchline": "Aih si mase"
+  }
+]

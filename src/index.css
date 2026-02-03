@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+@import "tailwindcss";
+
+:root {
+  font-family: 'Chewy', system-ui, sans-serif;
+}
