@@ -988,5 +988,515 @@
     "id": 198,
     "setup": "Apa bahasa Jepangnya orang Cilacap menyapa pelanggan restorannya yang tumben-tumbenan dateng pake baju keren?",
     "punchline": "Aih si mase"
+  },
+  {
+    "id": 199,
+    "setup": "Makanan apa yang paling kuat?",
+    "punchline": "Risoles, karena Risky buatnya."
+  },
+  {
+    "id": 200,
+    "setup": "Sayur apa yang suka nabrak?",
+    "punchline": "Sawi, karena sawi-nya ngerem."
+  },
+  {
+    "id": 201,
+    "setup": "Hewan apa yang suka ngoding?",
+    "punchline": "Kuda-kuda coding."
+  },
+  {
+    "id": 202,
+    "setup": "Bola apa yang nggak bisa di-dribble?",
+    "punchline": "Bola lampu."
+  },
+  {
+    "id": 203,
+    "setup": "Mobil apa yang paling sombong?",
+    "punchline": "Mobil Asia, karena 'A-sia-apa'!"
+  },
+  {
+    "id": 204,
+    "setup": "Buah apa yang suka marah?",
+    "punchline": "Nanas, karena 'Na-nas-bet'!"
+  },
+  {
+    "id": 205,
+    "setup": "Minuman apa yang paling cantik?",
+    "punchline": "Teh manis, soalnya manis banget."
+  },
+  {
+    "id": 206,
+    "setup": "Hewan apa yang paling tinggi?",
+    "punchline": "Jerapah, soalnya 'Jera-pah-am'!"
+  },
+  {
+    "id": 207,
+    "setup": "Alat tulis apa yang paling sopan?",
+    "punchline": "Pensil, soalnya suka bilang 'Ma-ap!'"
+  },
+  {
+    "id": 208,
+    "setup": "Makanan apa yang suka joget?",
+    "punchline": "Kerupuk, soalnya kriuk-kriuk."
+  },
+  {
+    "id": 209,
+    "setup": "Kota apa yang paling bingung?",
+    "punchline": "Banda Aceh, soalnya 'Banda-what?'"
+  },
+  {
+    "id": 210,
+    "setup": "Hewan apa yang suka nge-rap?",
+    "punchline": "Kucing, soalnya 'Meow!'"
+  },
+  {
+    "id": 211,
+    "setup": "Makanan apa yang paling jujur?",
+    "punchline": "Kecap, soalnya 'jujur' rasanya."
+  },
+  {
+    "id": 212,
+    "setup": "Benda apa yang suka nyanyi dangdut?",
+    "punchline": "Sandal, soalnya 'krecek-krecek'."
+  },
+  {
+    "id": 213,
+    "setup": "Ikan apa yang paling pelit?",
+    "punchline": "Ikan cupang, soalnya suka ngumpet."
+  },
+  {
+    "id": 214,
+    "setup": "Makanan apa yang paling genit?",
+    "punchline": "Tempe, soalnya suka 'gorengan'."
+  },
+  {
+    "id": 215,
+    "setup": "Hewan apa yang suka kerja di kantor?",
+    "punchline": "Kucing, soalnya suka 'meow-ng' (meeting)."
+  },
+  {
+    "id": 216,
+    "setup": "Buah apa yang paling cepat?",
+    "punchline": "Jeruk, soalnya 'ju-rus'."
+  },
+  {
+    "id": 217,
+    "setup": "Kendaraan apa yang paling pendiam?",
+    "punchline": "Becak, soalnya 'becak-sunyi'."
+  },
+  {
+    "id": 218,
+    "setup": "Makanan apa yang paling sakti?",
+    "punchline": "Sate, soalnya 'sate-lain'."
+  },
+  {
+    "id": 219,
+    "setup": "Hewan apa yang paling rajin?",
+    "punchline": "Semut, soalnya 'semangat'."
+  },
+  {
+    "id": 220,
+    "setup": "Makanan apa yang suka traveling?",
+    "punchline": "Roti, soalnya 'roti-around'."
+  },
+  {
+    "id": 221,
+    "setup": "Bunga apa yang paling galak?",
+    "punchline": "Melati, soalnya 'melat-cak'."
+  },
+  {
+    "id": 222,
+    "setup": "Hewan apa yang paling kaya?",
+    "punchline": "Kuda, soalnya punya 'kuda-kudaan'."
+  },
+  {
+    "id": 223,
+    "setup": "Makanan apa yang paling pemalu?",
+    "punchline": "Telur, soalnya suka 'semunyi'."
+  },
+  {
+    "id": 224,
+    "setup": "Alat apa yang paling narsis?",
+    "punchline": "Cermin, soalnya suka 'lihat-dir'."
+  },
+  {
+    "id": 225,
+    "setup": "Buah apa yang suka nyepam?",
+    "punchline": "Manggis, soalnya 'mang-gos-sip'."
+  },
+  {
+    "id": 226,
+    "setup": "Hewan apa yang paling hits?",
+    "punchline": "Kucing, soalnya 'viral'."
+  },
+  {
+    "id": 227,
+    "setup": "Makanan apa yang paling santuy?",
+    "punchline": "Nasi, soalnya 'nasi-santuy'."
+  },
+  {
+    "id": 228,
+    "setup": "Kota apa yang paling lapar?",
+    "punchline": "Pekanbaru, soalnya 'pekan-lapar'."
+  },
+  {
+    "id": 229,
+    "setup": "Hewan apa yang paling drama?",
+    "punchline": "Kucing, soalnya 'drama-kucing'."
+  },
+  {
+    "id": 230,
+    "setup": "Makanan apa yang paling baper?",
+    "punchline": "Sambal, soalnya 'sambal-baper'."
+  },
+  {
+    "id": 231,
+    "setup": "Alat apa yang paling giat?",
+    "punchline": "Obeng, soalnya 'obeng-giat'."
+  },
+  {
+    "id": 232,
+    "setup": "Buah apa yang paling sombong?",
+    "punchline": "Durian, soalnya 'duri-annya'."
+  },
+  {
+    "id": 233,
+    "setup": "Hewan apa yang paling cantik?",
+    "punchline": "Kucing, soalnya 'meow-tiful'."
+  },
+  {
+    "id": 234,
+    "setup": "Makanan apa yang paling cool?",
+    "punchline": "Es krim, soalnya 'cool-banget'."
+  },
+  {
+    "id": 235,
+    "setup": "Kendaraan apa yang paling ganteng?",
+    "punchline": "Motor, soalnya 'motor-cantik'."
+  },
+  {
+    "id": 236,
+    "setup": "Hewan apa yang paling jenius?",
+    "punchline": "Kucing, soalnya 'meow-nius'."
+  },
+  {
+    "id": 237,
+    "setup": "Makanan apa yang paling lucu?",
+    "punchline": "Keripik, soalnya 'kri-pik-cute'."
+  },
+  {
+    "id": 238,
+    "setup": "Benda apa yang paling kuat?",
+    "punchline": "Batu, soalnya 'batu-cuat'."
+  },
+  {
+    "id": 239,
+    "setup": "Buah apa yang paling hebat?",
+    "punchline": "Apel, soalnya 'apel-hebat'."
+  },
+  {
+    "id": 240,
+    "setup": "Hewan apa yang paling jago?",
+    "punchline": "Kuda, soalnya 'kuda-jago'."
+  },
+  {
+    "id": 241,
+    "setup": "Makanan apa yang paling pintar?",
+    "punchline": "Nasi, soalnya 'nasi-pintar'."
+  },
+  {
+    "id": 242,
+    "setup": "Kota apa yang paling keren?",
+    "punchline": "Bandung, soalnya 'bandung-keren'."
+  },
+  {
+    "id": 243,
+    "setup": "Hewan apa yang paling heboh?",
+    "punchline": "Ayam, soalnya 'ayam-heboh'."
+  },
+  {
+    "id": 244,
+    "setup": "Makanan apa yang paling asik?",
+    "punchline": "Sate, soalnya 'sate-asik'."
+  },
+  {
+    "id": 245,
+    "setup": "Alat apa yang paling canggih?",
+    "punchline": "HP, soalnya 'hp-canggih'."
+  },
+  {
+    "id": 246,
+    "setup": "Buah apa yang paling manja?",
+    "punchline": "Pisang, soalnya 'pisang-manja'."
+  },
+  {
+    "id": 247,
+    "setup": "Hewan apa yang paling ngehits?",
+    "punchline": "Kucing, soalnya 'kucing-hits'."
+  },
+  {
+    "id": 248,
+    "setup": "Makanan apa yang paling kekinian?",
+    "punchline": "Toast, soalnya 'toast-kekinian'."
+  },
+  {
+    "id": 249,
+    "setup": "Kenapa kucing suka duduk di keyboard?",
+    "punchline": "Soalnya mau bikin 'meow-mo'."
+  },
+  {
+    "id": 250,
+    "setup": "Apa yang bikin ayam jago?",
+    "punchline": "Soalnya 'jago-bakar'."
+  },
+  {
+    "id": 251,
+    "setup": "Minuman apa yang paling seksi?",
+    "punchline": "Jus, soalnya 'jus-seksi'."
+  },
+  {
+    "id": 252,
+    "setup": "Hewan apa yang paling malas?",
+    "punchline": "Kucing, soalnya suka 'meow-las'."
+  },
+  {
+    "id": 253,
+    "setup": "Makanan apa yang paling hits?",
+    "punchline": "Cilok, soalnya 'cilok-hits'."
+  },
+  {
+    "id": 254,
+    "setup": "Kendaraan apa yang paling cepat?",
+    "punchline": "Kereta, soalnya 'kereta-cepat'."
+  },
+  {
+    "id": 255,
+    "setup": "Hewan apa yang paling ramah?",
+    "punchline": "Anjing, soalnya 'anjing-ramah'."
+  },
+  {
+    "id": 256,
+    "setup": "Makanan apa yang paling enak?",
+    "punchline": "Rendang, soalnya 'rendang-enak'."
+  },
+  {
+    "id": 257,
+    "setup": "Kota apa yang paling indah?",
+    "punchline": "Bali, soalnya 'bali-indah'."
+  },
+  {
+    "id": 258,
+    "setup": "Hewan apa yang paling ceria?",
+    "punchline": "Burung, soalnya 'burung-ceria'."
+  },
+  {
+    "id": 259,
+    "setup": "Makanan apa yang paling gurih?",
+    "punchline": "Sate, soalnya 'sate-gurih'."
+  },
+  {
+    "id": 260,
+    "setup": "Alat apa yang paling seru?",
+    "punchline": "PlayStation, soalnya 'ps-seru'."
+  },
+  {
+    "id": 261,
+    "setup": "Buah apa yang paling segar?",
+    "punchline": "Jeruk, soalnya 'jeruk-segar'."
+  },
+  {
+    "id": 262,
+    "setup": "Hewan apa yang paling lincah?",
+    "punchline": "Kucing, soalnya 'kucing-lincah'."
+  },
+  {
+    "id": 263,
+    "setup": "Makanan apa yang paling pedas?",
+    "punchline": "Sambal, soalnya 'sambal-pedas'."
+  },
+  {
+    "id": 264,
+    "setup": "Kota apa yang paling asri?",
+    "punchline": "Bogor, soalnya 'bogor-asri'."
+  },
+  {
+    "id": 265,
+    "setup": "Hewan apa yang paling setia?",
+    "punchline": "Anjing, soalnya 'anjing-setia'."
+  },
+  {
+    "id": 266,
+    "setup": "Makanan apa yang paling manis?",
+    "punchline": "Gula, soalnya 'gula-manis'."
+  },
+  {
+    "id": 267,
+    "setup": "Kendaraan apa yang paling nyaman?",
+    "punchline": "Mobil, soalnya 'mobil-nyaman'."
+  },
+  {
+    "id": 268,
+    "setup": "Hewan apa yang paling gesit?",
+    "punchline": "Kucing, soalnya 'kucing-gesit'."
+  },
+  {
+    "id": 269,
+    "setup": "Makanan apa yang paling gurih?",
+    "punchline": "Ayam, soalnya 'ayam-gurih'."
+  },
+  {
+    "id": 270,
+    "setup": "Kota apa yang paling tenang?",
+    "punchline": "Solo, soalnya 'solo-tenang'."
+  },
+  {
+    "id": 271,
+    "setup": "Hewan apa yang paling lucu?",
+    "punchline": "Kucing, soalnya 'kucing-lucu'."
+  },
+  {
+    "id": 272,
+    "setup": "Makanan apa yang paling legit?",
+    "punchline": "Kue, soalnya 'kue-legit'."
+  },
+  {
+    "id": 273,
+    "setup": "Alat apa yang paling canggih?",
+    "punchline": "Laptop, soalnya 'laptop-canggih'."
+  },
+  {
+    "id": 274,
+    "setup": "Buah apa yang paling sehat?",
+    "punchline": "Apel, soalnya 'apel-sehat'."
+  },
+  {
+    "id": 275,
+    "setup": "Hewan apa yang paling kuat?",
+    "punchline": "Gajah, soalnya 'gajah-kuat'."
+  },
+  {
+    "id": 276,
+    "setup": "Makanan apa yang paling nikmat?",
+    "punchline": "Nasi, soalnya 'nasi-nikmat'."
+  },
+  {
+    "id": 277,
+    "setup": "Kota apa yang paling keren?",
+    "punchline": "Jakarta, soalnya 'jakarta-keren'."
+  },
+  {
+    "id": 278,
+    "setup": "Hewan apa yang paling cantik?",
+    "punchline": "Merpati, soalnya 'merpati-cantik'."
+  },
+  {
+    "id": 279,
+    "setup": "Makanan apa yang paling spesial?",
+    "punchline": "Steak, soalnya 'steak-spesial'."
+  },
+  {
+    "id": 280,
+    "setup": "Kendaraan apa yang paling aman?",
+    "punchline": "Bus, soalnya 'bus-aman'."
+  },
+  {
+    "id": 281,
+    "setup": "Hewan apa yang paling hebat?",
+    "punchline": "Elang, soalnya 'elang-hebat'."
+  },
+  {
+    "id": 282,
+    "setup": "Makanan apa yang paling istimewa?",
+    "punchline": "Sate, soalnya 'sate-istimewa'."
+  },
+  {
+    "id": 283,
+    "setup": "Kota apa yang paling megah?",
+    "punchline": "Surabaya, soalnya 'surabaya-megah'."
+  },
+  {
+    "id": 284,
+    "setup": "Hewan apa yang paling eksotis?",
+    "punchline": "Merak, soalnya 'merak-eksotis'."
+  },
+  {
+    "id": 285,
+    "setup": "Makanan apa yang paling ekstrem?",
+    "punchline": "Sambal, soalnya 'sambal-ekstrem'."
+  },
+  {
+    "id": 286,
+    "setup": "Alat apa yang paling modern?",
+    "punchline": "iPad, soalnya 'ipad-modern'."
+  },
+  {
+    "id": 287,
+    "setup": "Buah apa yang paling eksklusif?",
+    "punchline": "Durian, soalnya 'durian-eksklusif'."
+  },
+  {
+    "id": 288,
+    "setup": "Hewan apa yang paling ekspresif?",
+    "punchline": "Kucing, soalnya 'kucing-ekspresif'."
+  },
+  {
+    "id": 289,
+    "setup": "Makanan apa yang paling elegan?",
+    "punchline": "Steak, soalnya 'steak-elegan'."
+  },
+  {
+    "id": 290,
+    "setup": "Kota apa yang paling energik?",
+    "punchline": "Bandung, soalnya 'bandung-energik'."
+  },
+  {
+    "id": 291,
+    "setup": "Hewan apa yang paling emosional?",
+    "punchline": "Kucing, soalnya 'kucing-emosional'."
+  },
+  {
+    "id": 292,
+    "setup": "Makanan apa yang paling enak?",
+    "punchline": "Rendang, soalnya 'rendang-enak'."
+  },
+  {
+    "id": 293,
+    "setup": "Kendaraan apa yang paling efisien?",
+    "punchline": "Motor, soalnya 'motor-efisien'."
+  },
+  {
+    "id": 294,
+    "setup": "Hewan apa yang paling efektif?",
+    "punchline": "Kucing, soalnya 'kucing-efektif'."
+  },
+  {
+    "id": 295,
+    "setup": "Makanan apa yang paling efisien?",
+    "punchline": "Nasi, soalnya 'nasi-efisien'."
+  },
+  {
+    "id": 296,
+    "setup": "Kota apa yang paling elegan?",
+    "punchline": "Jakarta, soalnya 'jakarta-elegan'."
+  },
+  {
+    "id": 297,
+    "setup": "Hewan apa yang paling enerjik?",
+    "punchline": "Anjing, soalnya 'anjing-enerjik'."
+  },
+  {
+    "id": 298,
+    "setup": "Makanan apa yang paling eksperimental?",
+    "punchline": "Fusi, soalnya 'fusi-eksperimental'."
+  },
+  {
+    "id": 299,
+    "setup": "Kenapa ayam jago berkokok pagi-pagi?",
+    "punchline": "Soalnya mau sahur."
+  },
+  {
+    "id": 300,
+    "setup": "Apa persamaan kopi dan cinta?",
+    "punchline": "Sama-sama pahit di awal, manis di akhir... atau sebaliknya."
   }
 ]
